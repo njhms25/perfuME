@@ -1,0 +1,207 @@
+<resources>
+    <string name="app_name">perfuME</string>
+
+        //Sun Washed Citrus
+
+        <string name="sunIngredients">Sun Washed Citrus
+\nLemon
+\nTangerine
+\nSugar
+\nAvarage Nectar</string>
+
+        <string name="sunDesc"> Introducing Sun-Washed Citrus by Bath and Body Works, a radiant citrus fragrance designed for women. Launched in 2020, it embodies a vibrant, fruity ray of sunshine. Delight in the harmonious blend of sugared lemons, mandarin, and agave nectar, which gracefully perfume your skin with a delicate, weightless mist. This fragrance is ideal for layering, allowing you to create a personalized scent experience. Immerse yourself in the sheer joy of this invigorating aroma, elevating every moment with a revitalizing touch of vitality.</string>
+
+        //Citrus Chill
+
+        <string name="citrusIngredients">Citrus Chill
+\nTangelo
+\nAlmond Blossom
+\nIce</string>
+
+        <string name="citrusDesc"> Indulge in the refreshing allure of Citrus Chill by Victorias Secret. This invigorating fragrance captures the coolness of a summer breeze with vibrant citrus notes of mandarin, grapefruit, and lemon. Feel refreshed and revitalized as the icy citrus embrace lingers throughout the day. Experience the bliss of Citrus Chill, a burst of chilled citrus delight. </string>
+
+        //Enchaunter Charming
+
+        <string name="enchaunterIngredients">Enchaunter Charming
+\nRose
+\nMuguet
+\nCitrus
+\nAldehydes
+\nMusk
+\nCedarwood</string>
+
+        <string name="enchaunterDesc">Experience enchantment with Charming Enchanter perfume. Blooming jasmine, warm vanilla, and velvety sandalwood create an alluring blend. With whispers of mandarin and exotic spices, this fragrance captivates with charm and elegance. Let its bewitching scent transport you to a realm of timeless enchantment. </string>
+
+    <string name="frostedIngredients">
+\nCedar
+\nBalsamic Notes
+\nVanilla
+\nPear</string>
+
+    <string name="frostedDesc">Frosted Winter Woods by Bath and Body Works is a captivating blend of frosted pine, winter berries, icy mint, and smoky cedarwood that transports you to a serene and enchanting winter forest.. </string>
+
+
+    <string name="sleighIngredients">
+\nWarm spices
+\nSweet vanilla
+\nComforting woods
+\nWinter fruits (possible)
+\nFloral accents (possible)
+</string>
+
+    <string name="sleighDesc">Sleigh Rides and Snuggles by Bath and Body Works is a delightful fragrance that combines the cozy essence of snuggling by the fire with the playful joy of a festive sleigh ride, creating a heartwarming and enchanting experience. </string>
+
+
+
+    <string name="balsamIngredients">
+\nBergamot
+\nGrapefruit
+\nJasmine
+\nOrange Blossom
+\nOrris
+\nAmbergris
+\nBalsamic Notes
+\nCedar</string>
+
+    <string name="balsamDesc">Balsam Perfume is an exquisite fragrance that harmoniously blends the resinous allure of balsam with the captivating richness of oud, creating a captivating scent that transports you to a majestic forest adorned with luxurious agarwood trees, enveloping you in a sense of timeless elegance and natural splendor.
+
+</string>
+
+    <string name="fbombIngredients">
+\nCitrus Accord
+\nPink Pepper
+\nRose
+\nPeony
+\nMusk
+\nAmber</string>
+
+    <string name="fbombDesc"> Flowerbomb by Victor and Rofl captivates with a burst of citrus, pink pepper, and green leaves, transitioning into a floral bouquet and settling into a warm, sensual base of musk, amber, and sandalwood, creating an enchanting and alluring scent. </string>
+
+    //Floral
+    <string name="cfloralIngredients">
+\nGoji Berry
+\nPeony
+\nPeach
+\nWhite Musk
+\nAmber</string>
+
+    <string name="cfloralDesc"> Coach Floral Blush is a radiant fragrance that blends succulent goji berry and grapefruit with a graceful heart of peony, peach, and white woods, settling into a comforting base of musk, amber, and apricot, evoking enchanting floral elegance. </string>
+
+
+    <string name="fbRubyIngredients">
+\nLuscious Red fruit
+\nBergamot
+\nOrchid
+\nJasmin
+\nRose
+</string>
+
+    <string name="fbRubyDesc"> Flowerbomb Ruby Orchid is a mesmerizing fragrance that combines luscious red fruits, sparkling bergamot, captivating orchid, exotic jasmine, delicate rose, and a sensual blend of patchouli, warm amber, and velvety vanilla, exuding sophistication and allure. </string>
+
+    //GREEN
+
+    <string name="kissIngredients">
+\nBergamot
+\nPink Pepper
+\nRaspberry
+\nRose
+\nVanilla
+</string>
+
+    <string name="kissDesc"> A Kiss from a Rose by Kilian is a romantic fragrance that opens with bergamot, pink pepper, and raspberry, blooms into a captivating heart of rose, magnolia, and geranium, and envelops you in a sensual embrace of vanilla, cedarwood, and musk, leaving a trail of elegance and passion.</string>
+
+
+    <string name="guiltyIngredients">
+\nGreen Coriander
+\nLavender
+\nOrange blossom
+\nCedarwood
+</string>
+
+    <string name="guiltyDesc">Gucci Guilty Black Pour Homme is a seductive fragrance that combines fresh green coriander, lavender, lemon, and lime in the top notes, evolves into a captivating heart of orange blossom, neroli, and green notes, and settles into a base of cedarwood, patchouli, and vetiver, embodying a bold and mysterious aura.
+</string>
+
+
+    <string name="viridieIngredients">
+\nGreen Leaves
+\nGeranium
+\nJasmin
+\nOakmoss
+\nMuss
+</string>
+
+    <string name="viridieDesc">Viridie by Orto Paris invigorates green leaves and galbanum lead to a harmonious blend of geranium, jasmine, and orris, while base notes of patchouli, vetiver, oakmoss, and musk ground the fragrance with an earthy allure, capturing natures vibrant energy.</string>
+
+
+    //FRUITY
+    <string name="wonderIngredients">
+\nBergamot
+\nMandarin Orange
+\nRose
+\nMusk
+\nAmber
+</string>
+
+    <string name="wonderDesc"> Wonder Rose Summer is a delightful fragrance that captures the essence of a sunny summers day with a burst of bergamot, mandarin orange, and pink pepper, a graceful blend of rose, peony, and lily-of-the-valley, and a warm embrace of musk, patchouli, and amber, evoking the joy and romance of a summer adventure.
+</string>
+
+    //Fruitty
+    <string name="marshmallowIngredients">
+\nMarshmallow
+\nVanilla Sugar
+\nWhipped Cream
+\nJasmine
+\n</string>
+
+    <string name="marshmallowDesc">Marshmallow Addiction entices with a sweet blend of marshmallow, vanilla sugar, whipped cream, jasmine, and a warm base of sandalwood and musk, satisfying your cravings for a deliciously cozy experience.  </string>
+
+
+    <string name="sweetIngredients">
+\nPeach
+\nCitrus Accord
+\nLily
+\nJasmin
+\nAmber
+</string>
+
+    <string name="sweetDesc"> Sweet Honesty Everlasting by Avon: Sweet peach and refreshing citrus blend into a delicate floral symphony of lily of the valley, jasmine, and rose, settling into a warm base of sandalwood, musk, and amber, for a timeless embrace of sweetness and elegance.</string>
+
+
+    //Woodsy
+
+    <string name="vanilleIngredients">
+\nBergamot
+\nLemon
+\nZest
+\nTonka Bean
+</string>
+
+    <string name="vanilleDesc"> Vanille Antique is an exquisite fragrance with a refreshing citrus opening, a sensual heart of vanilla orchid, tonka bean, and caramel, and a warm base of sandalwood, amber, and musk, evoking nostalgia and timeless sophistication in a luxurious embrace of vanilla-infused enchantment.</string>
+
+    <string name="brownIngredients">
+\nMahogany
+\nResins
+\nWoody
+\nPine Tape
+\nManie Leather
+\nMoltr
+</string>
+
+    <string name="brownDesc">Brownmakers by DS and Durga is a mesmerizing fragrance that encapsulates the essence of the woods in a single scent, evoking a sense of earthy enchantment and rugged charm.
+</string>
+
+
+    <string name="bombshellIngredients">
+\nTangelo
+\nPink Pepper
+\nViolet Leaf
+\nVativer
+
+</string>
+
+    <string name="bombshellDesc">Bombshell Night captivates with sparkling tangelo, boysenberry, and pink pepper, transitioning to an elegant floral bouquet of jasmine, purple peony, and violet leaf, settling into a seductive base of amber, vetiver, and vanilla, exuding confidence and glamour for an unforgettable night out. </string>
+
+
+
+
+</resources>

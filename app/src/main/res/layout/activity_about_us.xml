@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/aboutus"
+    tools:context=".AboutUsActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="About Us"
+        android:layout_gravity="center"
+        android:textColor="#6B0473"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/aboutMeTextView"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="240dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorBlack"
+        android:layout_marginRight="40dp"
+        android:textAlignment="center"
+        android:text="Our perfuME finder mobile app is designed to revolutionize the way you discover and choose the perfect fragrance. With a variation of scents from renowned brands, our app will display all the perfume to you. Whether you're seeking a floral, woody, or oriental fragrance, our app guides you through an immersive journey of olfactory exploration. We understand that selecting a perfume is a deeply personal experience, and our app ensures that you find the scent that resonates with your individual style and personality. With user-friendly features, such as search filters, scent detection, and user reviews, our app empowers you to make informed decisions while exploring a diverse range of fragrances. Discover your signature scent effortlessly with our perfuME finder mobile app and experience a world of enchanting aromas at your fingertips." />
+</LinearLayout>
